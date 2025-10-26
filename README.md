@@ -48,8 +48,16 @@ It combines **classical machine learning** and **deep contextual embeddings (BER
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cross-domain-sentiment-analysis.git
-cd cross-domain-sentiment-analysis
+git clone https://github.com/Kamalkishor2003/Cross-Category-Sentiment-Analysis-on-Amazon-product-reviews.git
+cd Cross-Category-Sentiment-Analysis-on-Amazon-product-reviews
 
 # Install dependencies
 pip install -r requirements.txt
+
+👨‍💻 Author
+
+KamalKishor Sunwasiya
+M.Sc. Data Science — 2025
+Project: Cross-Category Sentiment Analysis Using Machine Learning
+📧 Email: [kamalkishor.sunwasiya2003@gmail.com]
+🌐 GitHub: [github.com/Kamalkishor2003]
